@@ -5,7 +5,7 @@
 Repositório desenvolvido durante a aula <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
 </p>
 <p align="center">
-Em homenagem ao artista e comediante Paulo Gustavo foi utulizado a capa de alguns filmes que participou<a href="https://digitalinnovation.one/"></a>.
+Em homenagem ao artista e comediante Paulo Gustavo que foi mais uma vitima do COVID-19 no ano de 2021 foi utulizado a capa de alguns filmes que participou<a href="https://digitalinnovation.one/"></a>.
 </p>
 
 <p align="center">
