@@ -36,7 +36,7 @@ Em homenagem ao artista e comediante Paulo Gustavo que foi mais uma vitima do CO
 -   [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
-## [](#getting-started):up: Começando
+## [](id="getting-started"):up: Começando
 
 -   Clone o repositorio
 -  Entre na pasta `netflix-clone`
