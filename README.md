@@ -20,14 +20,14 @@ Em homenagem ao artista e comediante Paulo Gustavo foi utulizado a capa de algun
   <a href="#prerequisites">Pre-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#getting-started">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#oi">License</a>
+  <a href="#">License</a>
 </p>
 
 ## [](#technology):rocket: Tecnologia
 -  <a href="https://www.w3schools.com/html/">HTML</a> — Linguagem de marcação para construir a estrutura da página.
 -  <a href="https://www.w3schools.com/css/">CSS</a> — Linguagem de estilo que nos permite criar estilos para nosso documento HTML
--  <a href="[Jquery](https://jquery.com/)">JQuery
--  <a href="[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)">JavaScript</a> 
+-  <a href="https://jquery.com/">JQuery
+-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a> 
 
 
 ## [](#prerequisites):ballot_box_with_check: Pré-requisitos
