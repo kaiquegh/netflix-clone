@@ -25,9 +25,9 @@ Em homenagem ao artista e comediante Paulo Gustavo foi utulizado a capa de algun
 
 ## [](#technology):rocket: Tecnologia
 -  <a href="https://www.w3schools.com/html/">HTML</a> — Linguagem de marcação para construir a estrutura da página.
--  <a href="https://www.w3schools.com/css/">CSS</a> — Linguagem de estilo que nos permite criar estilos para nosso documento HTML
--  <a href="https://jquery.com/">JQuery
--  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a> 
+-  <a href="https://www.w3schools.com/css/">CSS</a> - Linguagem de estilo que nos permite criar estilos para nosso documento HTML.
+-  <a href="https://jquery.com/">JQuery</a> - Biblioteca de funções JavaScript que interage com o HTML.
+-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a> - JavaScript é uma linguagem de programação interpretada estruturada.
 
 
 ## [](#prerequisites):ballot_box_with_check: Pré-requisitos
