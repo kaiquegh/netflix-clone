@@ -15,15 +15,15 @@ Em homenagem ao artista e comediante Paulo Gustavo que foi mais uma vitima do CO
   <img src="https://img.shields.io/github/license/kaiquegh/netflix-clone?style=plastic">
 </p>
 
-<p align="center">
+<p align="#center">
 <a href="technology">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#prerequisites">Pre-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="getting-started">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#getting-started">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#">License</a>
 </p>
 
-## [](#technology):rocket: Tecnologia
+<h2 id="technology">## [](#technology):rocket: Tecnologia</h2>
 -  <a href="https://www.w3schools.com/html/">HTML</a> — Linguagem de marcação para construir a estrutura da página.
 -  <a href="https://www.w3schools.com/css/">CSS</a> - Linguagem de estilo que nos permite criar estilos para nosso documento HTML.
 -  <a href="https://jquery.com/">JQuery</a> - Biblioteca de funções JavaScript que interage com o HTML.
