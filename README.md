@@ -52,7 +52,7 @@ Em homenagem ao artista e comediante Paulo Gustavo que foi mais uma vitima do CO
 After merging your receipt request to done, you can delete a branch from yours.
 
 <h2 id="license">:memo: Licença
-Este Projeto esta sob a MIT license. Veja <a href="https://github.com/kaiquegh/netflix-clone/blob/main/LICENSE">[LICENSE]()</a> para mais informações.
+Este Projeto esta sob a MIT license. Veja <a href="https://github.com/kaiquegh/netflix-clone/blob/main/LICENSE">[LICENSE]</a> para mais informações.
 
 ----------
 
