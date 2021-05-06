@@ -23,26 +23,26 @@ Em homenagem ao artista e comediante Paulo Gustavo que foi mais uma vitima do CO
   <a href="#">License</a>
 </p>
 
-<h2 id="technology">## [](#technology):rocket: Tecnologia</h2>
+<h2 id="technology">:rocket: Tecnologia</h2>
 -  <a href="https://www.w3schools.com/html/">HTML</a> — Linguagem de marcação para construir a estrutura da página.
 -  <a href="https://www.w3schools.com/css/">CSS</a> - Linguagem de estilo que nos permite criar estilos para nosso documento HTML.
 -  <a href="https://jquery.com/">JQuery</a> - Biblioteca de funções JavaScript que interage com o HTML.
 -  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a> - JavaScript é uma linguagem de programação interpretada estruturada.
 
 
-## [](#prerequisites):ballot_box_with_check: Pré-requisitos
+<h2 id="prerequisites">:ballot_box_with_check: Pré-requisitos</h2>
 -   [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -   [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 -   [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
-## [](id="getting-started"):up: Começando
+<h2 id="getting-started">:up: Começando</h2>
 
 -   Clone o repositorio
 -  Entre na pasta `netflix-clone`
 
 
-## [](#contribute):pencil2: Como Contribuir
+<h2 id="contribute">:pencil2: Como Contribuir</h2>
 
 -   Make a fork;
 -   Create a branck with your feature:  `git checkout -b my-feature`;
@@ -51,8 +51,7 @@ Em homenagem ao artista e comediante Paulo Gustavo que foi mais uma vitima do CO
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-
-## [](#license):memo: Licença
+<h2 id="license">:memo: Licença
 Este Projeto esta sob a MIT license. Veja [LICENSE](https://github.com/kaiquegh/netflix-clone/blob/main/LICENSE) para mais informações.
 
 ----------
