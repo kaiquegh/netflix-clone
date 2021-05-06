@@ -23,7 +23,7 @@ Em homenagem ao artista e comediante Paulo Gustavo que foi mais uma vitima do CO
   <a href="#">License</a>
 </p>
 
-<h2 id="technology">:rocket: Tecnologia</h2>
+<h2 id="technology" align="#center">:rocket: Tecnologia</h2>
 -  <a href="https://www.w3schools.com/html/">HTML</a> — Linguagem de marcação para construir a estrutura da página.
 -  <a href="https://www.w3schools.com/css/">CSS</a> - Linguagem de estilo que nos permite criar estilos para nosso documento HTML.
 -  <a href="https://jquery.com/">JQuery</a> - Biblioteca de funções JavaScript que interage com o HTML.
